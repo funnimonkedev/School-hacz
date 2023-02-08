@@ -15,6 +15,6 @@ javascript:(async () => {
                     alert('weener added! ;)')
                 } catch { }
             } else {
-                doucmne.write("BE IN TOWER OF DOOM NOW");
+                document.write("BE IN TOWER OF DOOM NOW");
             };
 })();javascript:void 0;
