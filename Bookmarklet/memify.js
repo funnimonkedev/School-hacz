@@ -1,0 +1,1 @@
+javascript:var memz= [ "https://media.tenor.com/W9t4G8la9w4AAAAM/you-are-idiot.gif", "https://media.tenor.com/FtgLKfbxF84AAAAM/you-are-an-idiot.gif", ]; var images = document.getElementsByTagName('img'); for(let i = 0; i <= images.length; i++) { var randomMeme = Math.floor(Math.random() * memz.length); images[i].src = memz[randomMeme]; } javascript:void 0;
