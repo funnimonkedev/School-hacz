@@ -10,9 +10,10 @@ javascript:
                 return Object.values(document.querySelector('#app > div > div'))[1].children[1]._owner;
             };
         
-            if (window.location.pathname != '/defense') {
+            if (window.location.pathname != '/defense' && window.location.pathname != '/defense2') {
                 document.write(';) goodbye webpage, didnt use it on the right directory =)');
-            } else {
+            } 
+            else {
                 let tokens = Number(parseFloat(prompt('How much moolah$$$ do you want?')));
                 reactHandler().stateNode.setState({ tokens });
         
