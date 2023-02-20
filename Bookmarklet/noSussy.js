@@ -1,0 +1,1 @@
+javascript:if(window.getSelection().toString() == "porn") { document.write("NO PORN"); } else if(window.getSelection().toString() == "penis") { document.write("NO PORN"); } else if(window.getSelection().toString() == "butt") { document.write("NO PORN"); }else if(window.getSelection().toString() == "proxy") { document.write("NO PROXY");}javascript:void 0;
